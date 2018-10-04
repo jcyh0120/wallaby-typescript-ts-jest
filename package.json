@@ -1,0 +1,25 @@
+{
+  "name": "jest-mock-play",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/jest": "^23.3.1",
+    "axios": "^0.18.0"
+  },
+  "devDependencies": {
+    "jest": "^23.5.0",
+    "jest-silent-reporter": "^0.1.1",
+    "ts-jest": "^23.10.3",
+    "ts-node": "^7.0.1",
+    "tslint": "^5.11.0",
+    "tslint-config-standard": "^7.1.0",
+    "typescript": "^3.0.1"
+  }
+}
